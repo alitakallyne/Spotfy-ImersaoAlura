@@ -1,4 +1,4 @@
-## Bem-vindo ao meu repositório de estudos de CSS3 e projetos simples! 🔎
+## Explore a Criação da Página Inicial do Spotify com HTML, CSS e JavaScript! 🔎
 > Este espaço destina-se a compartilhar meu aprendizado durante a Imersão Front-end da Alura, focando na criação da página inicial do Spotify. Explore as mais recentes técnicas e recursos de HTML, CSS e JavaScript utilizados no desenvolvimento deste projeto.
 ## Conteúdo 📝
  > Navegue pelos arquivos para explorar diferentes aspectos do desenvolvimento front-end, incluindo a implementação da página inicial do Spotify. 
